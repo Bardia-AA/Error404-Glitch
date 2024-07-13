@@ -1,4 +1,4 @@
-/* edited and redesigned by Bardia Asgari Ahi;D */
+/* edited and redesigned by Bardia-AA;D */
 :root {
     --primary: #595959;
     --bg: #fff;
@@ -29,6 +29,22 @@ body {
     color: black;
     overflow: hidden;
 }
+
+.ad-container {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+}
+
+.ad-container img {
+    border-radius: 50%;
+    border: 2px solid #555;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 150px;
+    height: 150px;
+}
+
 
 .content {
     position: relative;
@@ -940,4 +956,4 @@ article {
         font-size: 1rem;
     }
 }
-/* edited and redesigned by Bardia Asgari Ahi;D */
+/* edited and redesigned by Bardia-AA;D */
