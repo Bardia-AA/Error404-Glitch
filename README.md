@@ -1,6 +1,6 @@
 # Error404 Glitch
 
-This is a custom 404 error page designed and implemented by Bardia-AA. The page features a glitch effect, custom particles, and a responsive design. It is intended to be used as a replacement for the standard 404 error page.
+This is a custom 404 error page. The page features a glitch effect, custom particles, and a responsive design. It is intended to be used as a replacement for the standard 404 error page.
 
 ## Features
 
